@@ -1,6 +1,6 @@
 # WhooshHack
 
-![](2021-07-18-19-11-19.png)
+![](src/images/2021-07-18-19-11-19.png)
 
 ["Иррациональность" дорог](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/jl59v12ecwn9mgx/keplergl_69kcsue.json)
 
